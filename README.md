@@ -1,2 +1,2 @@
-- 👋大家好，我是@TgDaosheng
+- 👋大家好，我是[@TgDaosheng2](https://t.me/tgdaosheng2)
 - 电报群：https:/还没有
