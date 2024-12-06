@@ -1,5 +1,5 @@
-104.26.13.42:443#IPV4-🇭🇰香港
-hk.tgds.eu.org:2096#hk.tgds.eu.org-🇭🇰
+-104.26.13.42:443#IPV4-🇭🇰香港
+-hk.tgds.eu.org:2096#hk.tgds.eu.org-🇭🇰
 jp.tgds.eu.org:2096#jp.tgds.eu.org-🇯🇵
 us.tgds.eu.org:2096#us.tgds.eu.org-🇺🇸
 eu1.tgds.eu.org:2096#EU1-🇪🇺欧盟
